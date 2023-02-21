@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Job Tree UI',
       theme: ThemeData(
         textTheme: const TextTheme(
             bodyLarge: TextStyle(color: Colors.black),
